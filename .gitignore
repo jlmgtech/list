@@ -1,3 +1,7 @@
+# test files from the make file
+test
+fasttest
+
 # Prerequisites
 *.d
 
